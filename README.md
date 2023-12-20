@@ -19,7 +19,7 @@ The module 'Infrastructre as a Code' covers the below subjects [1-8] and provide
 
 ## Screenshots
 
-![My GitHub repo](/C:\Users\ED\Desktop\John.Assignment.Lectures\Python\MyRepro.PNG "My GitHub repo")
+![My GitHub repo](https://github.com/L00186487/Python/blob/main/MyRepro.PNG "My GitHub repo")
 
 ## Technologies/Tools Used 
 The technologies used to complete this assignment are:
